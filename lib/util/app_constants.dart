@@ -5,7 +5,7 @@ class AppConstants {
   static const String appName = '6amMart Store';
   static const double appVersion = 2.6;
 
-  static const String baseUrl = 'https://brunod8.sg-host.com';
+  static const String baseUrl = 'https://anunce.com';
 
   static const String configUri = '/api/v1/config';
   static const String loginUri = '/api/v1/auth/vendor/login';
